@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "4066169229",
+    "firebase_url": "https://final-project-mh-default-rtdb.firebaseio.com",
+    "project_id": "final-project-mh",
+    "storage_bucket": "final-project-mh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4066169229:android:b19394b713d49ebfcc6dc4",
+        "android_client_info": {
+          "package_name": "com.example.cloudfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4066169229-mcac7s7skhe4nucs7piv89virrjtc3n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCY14NojhcyfqfVTyfF891t5XwL9tgqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4066169229-mcac7s7skhe4nucs7piv89virrjtc3n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4066169229:android:25d326d49e16bd18cc6dc4",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4066169229-mcac7s7skhe4nucs7piv89virrjtc3n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCY14NojhcyfqfVTyfF891t5XwL9tgqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4066169229-mcac7s7skhe4nucs7piv89virrjtc3n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4066169229:android:8082041d1b471a42cc6dc4",
+        "android_client_info": {
+          "package_name": "com.example.projectcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4066169229-mcac7s7skhe4nucs7piv89virrjtc3n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCY14NojhcyfqfVTyfF891t5XwL9tgqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4066169229-mcac7s7skhe4nucs7piv89virrjtc3n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

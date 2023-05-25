@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="20dp"
+    android:paddingEnd="0dp"
+    android:paddingVertical="10dp"
+    android:background="@drawable/card_style"
+    android:layout_marginTop="5dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_person"
+        android:layout_marginEnd="10dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/cardUserName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cherif"
+            android:fontFamily="@font/abeezee"
+            android:textSize="20sp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/cardId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="id"
+            android:textColor="@color/purple"
+            android:fontFamily="@font/abeezee"
+            android:textSize="13sp" />
+    </LinearLayout>
+</LinearLayout>
