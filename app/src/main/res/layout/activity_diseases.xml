@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".post.PostsActivity"
-    android:background="@color/background">
+    tools:context=".DiseasesActivity"
+    android:background="@color/background"
+    >
 
 
     <androidx.recyclerview.widget.RecyclerView
@@ -16,5 +17,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:listitem="@layout/post"/>
+        tools:listitem="@layout/diseases"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

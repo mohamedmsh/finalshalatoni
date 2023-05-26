@@ -46,10 +46,12 @@ class LoginActivity : AppCompatActivity() {
                                     // توجيه المستخدم إلى واجهة الطبيب
                                     val intent = Intent(this, DoctorActivity::class.java)
                                     startActivity(intent)
+                                    finish()
                                 } else if (userTypeValue == "Patient") {
                                     // توجيه المستخدم إلى واجهة المريض
                                     val intent = Intent(this, PatientActivity::class.java)
                                     startActivity(intent)
+                                    finish()
                                 }
                             }
                         }

@@ -56,9 +56,11 @@ class RegisterActivity : AppCompatActivity() {
                         if (userType == "Doctor") {
                             val intent = Intent(this, DoctorActivity::class.java)
                             startActivity(intent)
+                            finish()
                         } else if (userType == "Patient") {
                             val intent = Intent(this, PatientActivity::class.java)
                             startActivity(intent)
+                            finish()
                         }
                     }
                 } else {

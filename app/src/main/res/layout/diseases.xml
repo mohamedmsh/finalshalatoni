@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingStart="20dp"
+    android:paddingEnd="0dp"
+    android:paddingVertical="10dp"
+    android:orientation="vertical"
+    android:background="@drawable/card_style"
+    android:layout_margin="5dp"
+    android:padding="5dp">
+
+    <ImageButton
+        android:id="@+id/amrad"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/marad"
+        tools:ignore="SpeakableTextPresentCheck" />
+    <TextView
+        android:id="@+id/textMT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="الامراض"
+        android:textSize="24sp"
+        />
+    <TextView
+        android:id="@+id/textM"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="الامراض"
+        android:textSize="18sp"
+        />
+
+</LinearLayout>
